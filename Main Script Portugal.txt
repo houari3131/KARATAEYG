@@ -15,7 +15,7 @@
 
     const scriptMappings = [
 
-        { includes: 'https://morocco.blsportugal.com/MAR/', urls: ['http://localhost:4000/fetch-script/script1','http://localhost:4000/fetch-script/script7','http://localhost:4000/fetch-script/script13','http://localhost:4000/fetch-script/script18','http://localhost:4000/fetch-script/script22']},
+        { includes: 'https://egypt.blsspainglobal.com/', urls: ['http://localhost:2000/fetch-script/script1','http://localhost:2000/fetch-script/script7','http://localhost:2000/fetch-script/script13','http://localhost:2000/fetch-script/script18','http://localhost:2000/fetch-script/script22']},
         { includes: '/account/Login', urls: ['http://localhost:4000/fetch-script/script2','http://localhost:4000/fetch-script/script9'] },
         { includes: '/Account/LogIn', urls: ['http://localhost:4000/fetch-script/script2','http://localhost:4000/fetch-script/script9'] },
  { includes: '/account/login', urls: ['http://localhost:4000/fetch-script/script2','http://localhost:4000/fetch-script/script9'] },
